@@ -1,3 +1,3 @@
 ## 0.1.0 - First Release
-* Every feature added
+* Added base styles
 * Every bug fixed
