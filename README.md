@@ -1,5 +1,5 @@
-# nitrino theme
+# Nil Syntax theme
 
-A short description of your theme.
+A dark colored syntax theme for Atom. It goes well with [Nil Ui theme](https://github.com/Nitrino/nil-ui)
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot](https://github.com/Nitrino/nil-syntax/raw/master/screenshot_1.png)
